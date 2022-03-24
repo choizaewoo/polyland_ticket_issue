@@ -8,7 +8,7 @@ int main(){
 					ageCaseArr[MAX], ticketAmountArr[MAX], ticketPriceArr[MAX];	
 	
 	printf("\n=================================report.csv===============================\n");
-	printf("³â   ¿ù  ÀÏ  ±ÇÁ¾\t ¿ì´ë»çÇ× \t ¿¬·É±¸ºĞ\t¼ö·®  \t °¡°İ\n");
+	printf("ë…„   ì›”  ì¼  ê¶Œì¢…\t ìš°ëŒ€ì‚¬í•­ \t ì—°ë ¹êµ¬ë¶„\tìˆ˜ëŸ‰  \t ê°€ê²©\n");
 	
 	
 	
